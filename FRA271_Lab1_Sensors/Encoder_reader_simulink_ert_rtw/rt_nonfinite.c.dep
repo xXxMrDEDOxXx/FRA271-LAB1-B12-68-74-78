@@ -1,0 +1,6 @@
+rt_nonfinite.c.o: \
+ C:/FRA271_Lab1_Sensors/Encoder_reader_simulink_ert_rtw/rt_nonfinite.c \
+ C:/FRA271_Lab1_Sensors/Encoder_reader_simulink_ert_rtw/rtwtypes.h \
+ C:/FRA271_Lab1_Sensors/Encoder_reader_simulink_ert_rtw/rt_nonfinite.h
+C:/FRA271_Lab1_Sensors/Encoder_reader_simulink_ert_rtw/rtwtypes.h:
+C:/FRA271_Lab1_Sensors/Encoder_reader_simulink_ert_rtw/rt_nonfinite.h:

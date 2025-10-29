@@ -1,0 +1,2 @@
+syscalls.c.o: \
+ C:/FRA271_Lab1_Sensors/Encoder_reader/STM32CubeIDE/Application/User/Core/syscalls.c
